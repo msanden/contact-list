@@ -1,15 +1,23 @@
-#This project builds a Contact list application. The application:
-* Allow us to Create new contacts with properties.
-* Save contacts.
-* Display contacts.
-* Delete contacts.
-* Display contact information.
-* Categorize contacts to favorite contacts.
+# A personal contacts' application
+#### Application introduces python concepts, 4/1/2019
+#### By **[Manuel Sande](https://github.com/msanden)**
+## Description
+The application:
+* Allow us to create new contacts with email, phone and name properties,
+* Save the contact,
+* Display a contact,
+* Delete a contact,
+* Categorize contacts into favorite contact categories.
 
-#It covers python concepts in:
+## Python Concepts
 * Object oriented programming with Python
 * Unit testing
-* Making our projects executable
-* Project design
-* Creating and working with modules
+* Creating executable projects
+* Python project structure & design
+* Creating and working with python modules
 * File and resource management
+
+### License
+MIT License
+
+Copyright (c) 2019 **Manuel Sande**
